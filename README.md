@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @saj0802
+- 👋 Hi, I’m Saj
 - 👀 I’m interested in learning to code } aiming for a career in Product Management (sounds weirdly contradictory I know ! But that's where I'm heading !)
-- 🌱 I’m currently learning SQL
+- 🌱 I’m currently learning SQL + taking on the AppAcademy Bootcamp
 - 💞️ I’m looking to collaborate on open-source code
 - 📫 How to reach me } sa.j@windowslive.com
 
